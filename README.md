@@ -1,5 +1,4 @@
 # LP MikroTik 01
-Edit file config.js
 
 FUTUR TERSEDIA :
 - Login Mode Voucher
