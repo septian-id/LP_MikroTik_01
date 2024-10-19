@@ -2,8 +2,8 @@
 Edit file config.js
 ```js
 var config = {
-clear_session       : true,
-api_url             : 'https://desktop.niceradius.com/api',
+  clear_session : true,
+  api_url : 'https://desktop.niceradius.com/api',
 api_key             : '',
 router_id           : '',
 merchant_code       : '',
