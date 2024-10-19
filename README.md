@@ -1,12 +1,13 @@
 # LP_MikroTik_01
 
-Fitur Tersedia :
+FUTUR TERSEDIA :
 - Login Mode Voucher
 - Login Mode Member
 - Payment Gateway
 - Riwayat Transaksi
 - Auto Clear Active Session
 - Gambar Slide
+
 
 
 PILIHAN WARNA
