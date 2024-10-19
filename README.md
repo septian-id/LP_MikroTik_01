@@ -1,5 +1,8 @@
 # LP_MikroTik_01
+Edit file config.js
+```js
 
+```
 FUTUR TERSEDIA :
 - Login Mode Voucher
 - Login Mode Member
