@@ -1,14 +1,14 @@
 var config = {
 clear_session       : true,
 api_url             : 'https://desktop.niceradius.com/api',
-api_key             : 'kXhka4N8e2V+i2VraWWHaA==',
-router_id           : 'W9MZ2M7IEEZROLS8',
-merchant_code       : 'D14938',
-merchant_api_key    : '54e8e5bd05a028deda86cf567df95302',
-fonnte_token        : 'zf!v_rWqWCDeZhF1GYou',
-contact             : 'https://wa.me/6283123456789',
+api_key             : '',
+router_id           : '',
+merchant_code       : '',
+merchant_api_key    : '',
+fonnte_token        : '',
+contact             : 'https://wa.me/6281234567890',
 currency            : 'Rp',
-color               : 12
+color               : 17
 }
 
 /*
