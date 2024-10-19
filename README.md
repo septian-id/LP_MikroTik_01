@@ -2,7 +2,7 @@
 
 Fitur Tersedia :
 - Login Mode Voucher
-- Login Mode Username & Password
+- Login Mode Member
 - Payment Gateway
 - Riwayat Transaksi
 - Auto Clear Active Session
