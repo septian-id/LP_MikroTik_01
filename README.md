@@ -25,7 +25,12 @@ color               : 17
 | fonnte_token | dari https://fonnte.com |
 | color  | 0 - 18 |
 
-
+Bypass URL : 
+```rsc
+/ip hotspot walled-garden ip
+add action=accept disabled=no dst-host=desktop.niceradius.com;
+add action=accept disabled=no dst-host=duitku.com;
+```
 FUTUR TERSEDIA :
 - Login Mode Voucher
 - Login Mode Member
