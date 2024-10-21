@@ -43,23 +43,23 @@ add action=accept disabled=no dst-host="duitku.com";
 ### PILIHAN WARNA
 - ![#ffc107](https://placehold.co/15x15/ffc107/ffc107.png) `0 - Amber`
 - ![#000000](https://placehold.co/15x15/000000/000000.png) `1 - Black`
-- ![#f44336](https://placehold.co/15x15/f44336/f44336.png) `1 - Red`
-- ![#607d8b](https://placehold.co/15x15/607d8b/607d8b.png) `1 - Blue Grey`
-- ![#2196f3](https://placehold.co/15x15/2196f3/2196f3.png) `1 - Blue`
-- ![#00bcd4](https://placehold.co/15x15/00bcd4/00bcd4.png) `1 - Cyan`
-- ![#616161](https://placehold.co/15x15/616161/616161.png) `1 - Dark Grey`
-- ![#ff5722](https://placehold.co/15x15/ff5722/ff5722.png) `1 - Deep Orange`
-- ![#673ab7](https://placehold.co/15x15/673ab7/673ab7.png) `1 - Deep Purple`
-- ![#4caf50](https://placehold.co/15x15/4caf50/4caf50.png) `1 - Green`
-- ![#3f51b5](https://placehold.co/15x15/3f51b5/3f51b5.png) `1 - Indigo`
-- ![#87ceeb](https://placehold.co/15x15/87ceeb/87ceeb.png) `1 - Light Blue`
-- ![#8bc34a](https://placehold.co/15x15/8bc34a/8bc34a.png) `1 - Light Green`
-- ![#cddc39](https://placehold.co/15x15/cddc39/cddc39.png) `1 - Lime`
-- ![#ff9800](https://placehold.co/15x15/ff9800/ff9800.png) `1 - Orange`
-- ![#e91e63](https://placehold.co/15x15/e91e63/e91e63.png) `1 - Pink`
-- ![#9c27b0](https://placehold.co/15x15/9c27b0/9c27b0.png) `1 - Purple`
-- ![#009688](https://placehold.co/15x15/009688/009688.png) `1 - Teal`
-- ![#ffeb3b](https://placehold.co/15x15/ffeb3b/ffeb3b.png) `1 - Yellow`
+- ![#f44336](https://placehold.co/15x15/f44336/f44336.png) `2 - Red`
+- ![#607d8b](https://placehold.co/15x15/607d8b/607d8b.png) `3 - Blue Grey`
+- ![#2196f3](https://placehold.co/15x15/2196f3/2196f3.png) `4 - Blue`
+- ![#00bcd4](https://placehold.co/15x15/00bcd4/00bcd4.png) `5 - Cyan`
+- ![#616161](https://placehold.co/15x15/616161/616161.png) `6 - Dark Grey`
+- ![#ff5722](https://placehold.co/15x15/ff5722/ff5722.png) `7 - Deep Orange`
+- ![#673ab7](https://placehold.co/15x15/673ab7/673ab7.png) `8 - Deep Purple`
+- ![#4caf50](https://placehold.co/15x15/4caf50/4caf50.png) `9 - Green`
+- ![#3f51b5](https://placehold.co/15x15/3f51b5/3f51b5.png) `10 - Indigo`
+- ![#87ceeb](https://placehold.co/15x15/87ceeb/87ceeb.png) `11 - Light Blue`
+- ![#8bc34a](https://placehold.co/15x15/8bc34a/8bc34a.png) `12 - Light Green`
+- ![#cddc39](https://placehold.co/15x15/cddc39/cddc39.png) `13 - Lime`
+- ![#ff9800](https://placehold.co/15x15/ff9800/ff9800.png) `14 - Orange`
+- ![#e91e63](https://placehold.co/15x15/e91e63/e91e63.png) `15 - Pink`
+- ![#9c27b0](https://placehold.co/15x15/9c27b0/9c27b0.png) `16 - Purple`
+- ![#009688](https://placehold.co/15x15/009688/009688.png) `17 - Teal`
+- ![#ffeb3b](https://placehold.co/15x15/ffeb3b/ffeb3b.png) `18 - Yellow`
 
 
 ### (Optional) Bypass Metode Pembayaran DANA :
