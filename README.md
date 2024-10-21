@@ -26,10 +26,10 @@ color               : 17
 | color  | 0 - 18 |
 
 ### Bypass Server URL : 
-```rsc
+```js
 /ip hotspot walled-garden ip
-add action=accept disabled=no dst-host=desktop.niceradius.com;
-add action=accept disabled=no dst-host=duitku.com;
+add action=accept disabled=no dst-host="desktop.niceradius.com";
+add action=accept disabled=no dst-host="duitku.com";
 ```
 ### FUTUR TERSEDIA :
 - Login Mode Voucher
@@ -63,17 +63,17 @@ add action=accept disabled=no dst-host=duitku.com;
 
 
 ### (Optional) Bypass Metode Pembayaran DANA :
-```rsc
+```js
 /ip hotspot walled-garden ip
-add action=accept disabled=no comment="DANA" dst-host=m.dana.id;
-add action=accept disabled=no comment="DANA" dst-host=dana.id;
-add action=accept disabled=no comment="DANA" dst-host=split.io;
-add action=accept disabled=no comment="DANA" dst-host=sdk.split.io;
-add action=accept disabled=no comment="DANA" dst-host=auth.split.io;
-add action=accept disabled=no comment="DANA" dst-host=events.split.io;
-add action=accept disabled=no comment="DANA" dst-host=a.m.dana.id;
-add action=accept disabled=no comment="DANA" dst-host=mas-log1.saas.dana.id;
-add action=accept disabled=no comment="DANA" dst-host=api-js.mixpanel.com;
-add action=accept disabled=no comment="DANA" dst-host=captcha.saas.dana.id;
-add action=accept disabled=no comment="DANA" dst-host=dana-assets-id.oss-ap-southeast-5.aliyuncs.com;
+add action=accept disabled=no comment="DANA" dst-host="m.dana.id";
+add action=accept disabled=no comment="DANA" dst-host="dana.id";
+add action=accept disabled=no comment="DANA" dst-host="split.io";
+add action=accept disabled=no comment="DANA" dst-host="sdk.split.io";
+add action=accept disabled=no comment="DANA" dst-host="auth.split.io";
+add action=accept disabled=no comment="DANA" dst-host="events.split.io";
+add action=accept disabled=no comment="DANA" dst-host="a.m.dana.id";
+add action=accept disabled=no comment="DANA" dst-host="mas-log1.saas.dana.id";
+add action=accept disabled=no comment="DANA" dst-host="api-js.mixpanel.com";
+add action=accept disabled=no comment="DANA" dst-host="captcha.saas.dana.id";
+add action=accept disabled=no comment="DANA" dst-host="dana-assets-id.oss-ap-southeast-5.aliyuncs.com";
 ```
