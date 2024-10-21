@@ -62,7 +62,7 @@ add action=accept disabled=no dst-host=duitku.com;
 - 18 = yellow
 
 
-### Bypass Metode Pembayaran DANA :
+### (Optioanl) Bypass Metode Pembayaran DANA :
 ```rsc
 /ip hotspot walled-garden ip
 add action=accept disabled=no comment="DANA" dst-host=m.dana.id;
