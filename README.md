@@ -65,15 +65,15 @@ add action=accept disabled=no dst-host=duitku.com;
 ### Bypass Metode Pembayaran DANA :
 ```rsc
 /ip hotspot walled-garden ip
-add action=accept disabled=no dst-host=m.dana.id;
-add action=accept disabled=no dst-host=dana.id;
-add action=accept disabled=no dst-host=split.io;
-add action=accept disabled=no dst-host=sdk.split.io;
-add action=accept disabled=no dst-host=auth.split.io;
-add action=accept disabled=no dst-host=events.split.io;
-add action=accept disabled=no dst-host=a.m.dana.id;
-add action=accept disabled=no dst-host=mas-log1.saas.dana.id;
-add action=accept disabled=no dst-host=api-js.mixpanel.com;
-add action=accept disabled=no dst-host=captcha.saas.dana.id;
-add action=accept disabled=no dst-host=dana-assets-id.oss-ap-southeast-5.aliyuncs.com;
+add action=accept disabled=no comment="DANA" dst-host=m.dana.id;
+add action=accept disabled=no comment="DANA" dst-host=dana.id;
+add action=accept disabled=no comment="DANA" dst-host=split.io;
+add action=accept disabled=no comment="DANA" dst-host=sdk.split.io;
+add action=accept disabled=no comment="DANA" dst-host=auth.split.io;
+add action=accept disabled=no comment="DANA" dst-host=events.split.io;
+add action=accept disabled=no comment="DANA" dst-host=a.m.dana.id;
+add action=accept disabled=no comment="DANA" dst-host=mas-log1.saas.dana.id;
+add action=accept disabled=no comment="DANA" dst-host=api-js.mixpanel.com;
+add action=accept disabled=no comment="DANA" dst-host=captcha.saas.dana.id;
+add action=accept disabled=no comment="DANA" dst-host=dana-assets-id.oss-ap-southeast-5.aliyuncs.com;
 ```
