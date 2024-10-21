@@ -25,7 +25,7 @@ color               : 17
 | fonnte_token | dari https://fonnte.com |
 | color  | 0 - 18 |
 
-Bypass URL : 
+Bypass Server URL : 
 ```rsc
 /ip hotspot walled-garden ip
 add action=accept disabled=no dst-host=desktop.niceradius.com;
@@ -60,3 +60,20 @@ PILIHAN WARNA
 - 16 = purple
 - 17 = teal
 - 18 = yellow
+
+
+Bypass Metode Pembayaran DANA :
+```rsc
+/ip hotspot walled-garden ip
+add action=accept disabled=no dst-host=m.dana.id;
+add action=accept disabled=no dst-host=dana.id;
+add action=accept disabled=no dst-host=split.io;
+add action=accept disabled=no dst-host=sdk.split.io;
+add action=accept disabled=no dst-host=auth.split.io;
+add action=accept disabled=no dst-host=events.split.io;
+add action=accept disabled=no dst-host=a.m.dana.id;
+add action=accept disabled=no dst-host=mas-log1.saas.dana.id;
+add action=accept disabled=no dst-host=api-js.mixpanel.com;
+add action=accept disabled=no dst-host=captcha.saas.dana.id;
+add action=accept disabled=no dst-host=dana-assets-id.oss-ap-southeast-5.aliyuncs.com;
+```
