@@ -244,6 +244,7 @@
         password.value = username.value;
     }
     username.onkeyup = update_password;
+    username.onchange = update_password;
 
     function login_mode(mode) {
         username.value = '';
@@ -251,11 +252,13 @@
         switch (mode) {
             case "voucher":
                 username.onkeyup = update_password;
+                username.onchange = update_password;
                 username.placeholder = 'Kode Voucher';
                 password.type = 'hidden';
                 break;
             case "member":
                 username.onkeyup = '';
+                username.onchange = '';
                 username.placeholder = 'Username';
                 password.type = 'password';
                 break;
