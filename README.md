@@ -25,13 +25,13 @@ color               : 17
 | fonnte_token | dari https://fonnte.com |
 | color  | 0 - 18 |
 
-Bypass Server URL : 
+### Bypass Server URL : 
 ```rsc
 /ip hotspot walled-garden ip
 add action=accept disabled=no dst-host=desktop.niceradius.com;
 add action=accept disabled=no dst-host=duitku.com;
 ```
-FUTUR TERSEDIA :
+### FUTUR TERSEDIA :
 - Login Mode Voucher
 - Login Mode Member
 - Payment Gateway
@@ -40,7 +40,7 @@ FUTUR TERSEDIA :
 - Gambar Slide
 
 
-PILIHAN WARNA
+### PILIHAN WARNA
 - 0 = amber
 - 1 = black
 - 2 = red
@@ -62,7 +62,7 @@ PILIHAN WARNA
 - 18 = yellow
 
 
-Bypass Metode Pembayaran DANA :
+### Bypass Metode Pembayaran DANA :
 ```rsc
 /ip hotspot walled-garden ip
 add action=accept disabled=no dst-host=m.dana.id;
