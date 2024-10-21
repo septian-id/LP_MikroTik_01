@@ -25,7 +25,7 @@ color               : 17
 | fonnte_token | dari https://fonnte.com |
 | color  | 0 - 18 |
 
-### Bypass Server URL : 
+### (Required) Bypass Server URL : 
 ```js
 /ip hotspot walled-garden ip
 add action=accept disabled=no dst-host="desktop.niceradius.com";
